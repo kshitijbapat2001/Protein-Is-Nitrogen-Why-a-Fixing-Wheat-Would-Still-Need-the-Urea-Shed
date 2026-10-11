@@ -1,0 +1,7 @@
+treatment,response,pooled_effect_pc,pairwise_comparisons,environments,source
+Nitrogen added (any timing),Grain yield,14.85,,,Wang et al. (2023) Agric Water Manag 290:108587
+Nitrogen added (any timing),Grain protein concentration,6.62,,,Wang et al. (2023) Agric Water Manag 290:108587
+Nitrogen added late in the season,Grain yield,0.00,542,127,Giordano et al. (2023) Field Crops Res 290:108740
+Nitrogen added late in the season,Grain protein concentration,3.96,542,127,Giordano et al. (2023) Field Crops Res 290:108740
+
+mechanism,Bogard et al. (2010) J Exp Bot 61:4303-4312

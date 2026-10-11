@@ -1,0 +1,16 @@
+grade,protein_floor_pc,grain_yield_t_ha,grain_N_removed_kg_N_ha,target_low_kg_N_ha,target_high_kg_N_ha,coverage_low_pc,coverage_high_pc,source_protein_standard,source_engineering_target
+APH2,13.0,2.0,45.6,25,50,54.8,100.0,Grain Trade Australia (2025) Wheat trading standards 2025/26; Grains Australia wheat classes,Rogers & Oldroyd (2014) J Exp Bot 65:1939-1946
+APH2,13.0,3.0,68.4,25,50,36.5,73.1,Grain Trade Australia (2025) Wheat trading standards 2025/26; Grains Australia wheat classes,Rogers & Oldroyd (2014) J Exp Bot 65:1939-1946
+APH2,13.0,4.0,91.2,25,50,27.4,54.8,Grain Trade Australia (2025) Wheat trading standards 2025/26; Grains Australia wheat classes,Rogers & Oldroyd (2014) J Exp Bot 65:1939-1946
+APH2,13.0,5.0,114.0,25,50,21.9,43.8,Grain Trade Australia (2025) Wheat trading standards 2025/26; Grains Australia wheat classes,Rogers & Oldroyd (2014) J Exp Bot 65:1939-1946
+APH2,13.0,6.0,136.8,25,50,18.3,36.5,Grain Trade Australia (2025) Wheat trading standards 2025/26; Grains Australia wheat classes,Rogers & Oldroyd (2014) J Exp Bot 65:1939-1946
+H2,11.5,2.0,40.4,25,50,62.0,100.0,Grain Trade Australia (2025) Wheat trading standards 2025/26; Grains Australia wheat classes,Rogers & Oldroyd (2014) J Exp Bot 65:1939-1946
+H2,11.5,3.0,60.5,25,50,41.3,82.6,Grain Trade Australia (2025) Wheat trading standards 2025/26; Grains Australia wheat classes,Rogers & Oldroyd (2014) J Exp Bot 65:1939-1946
+H2,11.5,4.0,80.7,25,50,31.0,62.0,Grain Trade Australia (2025) Wheat trading standards 2025/26; Grains Australia wheat classes,Rogers & Oldroyd (2014) J Exp Bot 65:1939-1946
+H2,11.5,5.0,100.9,25,50,24.8,49.6,Grain Trade Australia (2025) Wheat trading standards 2025/26; Grains Australia wheat classes,Rogers & Oldroyd (2014) J Exp Bot 65:1939-1946
+H2,11.5,6.0,121.1,25,50,20.7,41.3,Grain Trade Australia (2025) Wheat trading standards 2025/26; Grains Australia wheat classes,Rogers & Oldroyd (2014) J Exp Bot 65:1939-1946
+APW1,10.5,2.0,36.8,25,50,67.9,100.0,Grain Trade Australia (2025) Wheat trading standards 2025/26; Grains Australia wheat classes,Rogers & Oldroyd (2014) J Exp Bot 65:1939-1946
+APW1,10.5,3.0,55.3,25,50,45.2,90.5,Grain Trade Australia (2025) Wheat trading standards 2025/26; Grains Australia wheat classes,Rogers & Oldroyd (2014) J Exp Bot 65:1939-1946
+APW1,10.5,4.0,73.7,25,50,33.9,67.9,Grain Trade Australia (2025) Wheat trading standards 2025/26; Grains Australia wheat classes,Rogers & Oldroyd (2014) J Exp Bot 65:1939-1946
+APW1,10.5,5.0,92.1,25,50,27.1,54.3,Grain Trade Australia (2025) Wheat trading standards 2025/26; Grains Australia wheat classes,Rogers & Oldroyd (2014) J Exp Bot 65:1939-1946
+APW1,10.5,6.0,110.5,25,50,22.6,45.2,Grain Trade Australia (2025) Wheat trading standards 2025/26; Grains Australia wheat classes,Rogers & Oldroyd (2014) J Exp Bot 65:1939-1946

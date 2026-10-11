@@ -1,0 +1,10 @@
+Domain,Stakeholder,Quantified stake,Position
+Food,Growers delivering milling grades,"At 4 t ha⁻¹ an APH2 crop removes 91 kg N ha⁻¹ in grain; the 25–50 kg N ha⁻¹ target covers 27–55% of it (Grain Trade Australia, 2025; Rogers & Oldroyd, 2014)",Conditional; only if the grade stays reachable
+Food,Bulk handlers and classifiers,"Grade is assigned on nitrogen × 5.7 at receival, so protein variability becomes blending and segregation cost (Grain Trade Australia, 2025)",Resistant; bears a cost it does not cause
+Food,Millers and export buyers,"HB4, the only approved transgenic wheat trait, is cleared in 10 countries but grown in 2 (ISAAA, 2025)",Resistant; acceptance is separate from approval
+Food,Smallholders on feed and domestic grades,"Fertiliser use in Africa averages about 22 kg ha⁻¹ against 94 in Latin America and 177 in Asia, and feed grades carry no protein floor (Food and Agriculture Organization [FAO], 2024; Grain Trade Australia, 2025)",Strongest demand; the natural first market
+Food,Trait developers,"Bread wheat is a 17 Gb allohexaploid with 3 homoeologues per gene and 1.5–51% transformation efficiency (IWGSC, 2018; Debernardi et al., 2020)",Cautious; wheat is the hardest cereal to engineer
+Fibre,Grain legume growers,"Wheat yields 1.2 t ha⁻¹ more after grain legumes and 0.5 t ha⁻¹ more after oats, so 0.7 t ha⁻¹ is the nitrogen component (Angus et al., 2015)",Opposed; the trait substitutes for half their value
+Fibre,Straw and biomaterials processors,"Wheat straw has a C:N of 80–100:1 or higher, well above the 25:1 immobilisation threshold (García-Ruiz et al., 2019)","Watchful; residue chemistry, not nitrogen, is their variable"
+Fuel,Ammonia manufacturers,"185 Mt NH₃ produced annually, 98% from natural gas (Smith et al., 2020); wheat takes about 18% of manufactured reactive nitrogen (Ladha et al., 2016)","Opposed; faces demand erosion, not a cost shock"
+Fuel,Climate and inventory agencies,"Inside wheat's 90–135 kg N ha⁻¹ window, substitution abates 0.91–1.08 times the constant-factor estimate (Shcherbak et al., 2014)",Conditional on measurement; no premium for wheat
